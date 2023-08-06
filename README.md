@@ -23,7 +23,7 @@
 
 <h2>Glad to see you here!</h2>  
 <br>
-## Rapidfire  
+###  Rapidfire  
 
 - 🔭 I’m currently working on Computer Vision.
   
@@ -40,7 +40,7 @@
 <br/>
 <hr/>
 
-## Skill Set  :
+### Skill Set  :
 
 
 
