@@ -1,7 +1,7 @@
 
 
 <img align="right" alt="Duck" width="50%" src="https://media.giphy.com/media/kmUvauX8TMWg0OsqKW/giphy-downsized-large.gif"/>
-
+<br/>
 <h1 align="left">Hey there, I'm Aman 👋🏻</h1>  
 <div align="left">
 <a href="https://github.com/amanpandey-03" target="_blank">
@@ -84,7 +84,7 @@
 
 
 <br/>  
-
-
+<img align="center" alt="Duck" src="https://media.giphy.com/media/Ap5QgIYjSTjpvai6ly/giphy.gif
+"/>
   
 <br/>
