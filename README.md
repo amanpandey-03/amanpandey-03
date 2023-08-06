@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://i.gifer.com/XOsX.gif" align="center" height="150" width="115" />
+<img src="https://i.gifer.com/72gi.gif" align="center" height="150" width="115" />
 </div>  
-  
+
+<img src="https://i.gifer.com/XOsX.gif"> </img>
 
 ### <div align="center">Hey there, I'm Aman</div>  
   
