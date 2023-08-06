@@ -83,4 +83,3 @@
 </div>
 <br/>
 <br/>
-<img align="right" alt="Duck" width="100%" src="https://www.pngkit.com/png/full/293-2930570_desktop-footer-bg-bg-footer-png.png"/>
