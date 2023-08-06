@@ -1,6 +1,6 @@
 
 
-<img align="right" alt="Duck" width="50%" src="https://media.giphy.com/media/kmUvauX8TMWg0OsqKW/giphy-downsized-large.gif"/>
+<img align="right" alt="Duck" width="40%" src="https://media.giphy.com/media/kmUvauX8TMWg0OsqKW/giphy-downsized-large.gif"/>
 
 <h1 align="left">Hey there, I'm Aman 👋🏻</h1>  
 <div align="left">
