@@ -1,7 +1,7 @@
 
 
 <img align="right" alt="Duck" width="50%" src="https://media.giphy.com/media/kmUvauX8TMWg0OsqKW/giphy-downsized-large.gif"/>
-<br/>
+
 <h1 align="left">Hey there, I'm Aman 👋🏻</h1>  
 <div align="left">
 <a href="https://github.com/amanpandey-03" target="_blank">
@@ -81,10 +81,5 @@
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>  
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
 </div>
-
-
-<br/>  
-<img align="center" alt="Duck" src="https://media.giphy.com/media/Ap5QgIYjSTjpvai6ly/giphy.gif
-"/>
   
 <br/>
