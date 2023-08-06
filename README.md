@@ -81,5 +81,6 @@
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>  
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
 </div>
-  
 <br/>
+<br/>
+<img align="right" alt="Duck" width="100%" src="https://www.pngkit.com/png/full/293-2930570_desktop-footer-bg-bg-footer-png.png"/>
