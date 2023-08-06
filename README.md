@@ -25,10 +25,10 @@
 <br>
 ## Rapidfire  
 
-- 🔭 I’m currently working on Configuration management and Computer Vision.
+- 🔭 I’m currently working on Computer Vision.
   
 
-- 🌱 I’m currently learning Terraform and Kubernetes  
+- 🌱 I’m currently learning Terraform, configuration management, and Kubernetes.   
   
 
 - ❓ Ask me about NLP, Computer Vision, DevOps  
