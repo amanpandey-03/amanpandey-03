@@ -22,8 +22,8 @@
 </div>  
 
 <h2>Glad to see you here!</h2>  
-<br>
-###  Rapidfire  
+
+### - Rapidfire  
 
 - 🔭 I’m currently working on Computer Vision.
   
@@ -42,10 +42,11 @@
 
 ### Skill Set  :
 
-
+<br/>
 
 ### - Web Development  
-<div align = "right">  
+
+<div align = "center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -58,17 +59,20 @@
 <a href="https://www.python.org/" target="_blank"><img class="image-with-space"style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
+<hr/>
+
 ### - Machine Learning  
-<div align="right">  
+<div align="center">  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 </div>
+<hr/>
 
 ### -        DevOps  
-<div align="right">  
+<div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://logodix.com/logo/34937.png" alt="AWS" height="50" /></a>   
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -82,4 +86,5 @@
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
 </div>
 <br/>
-<br/>
+<hr/>
+<img align="center" alt="Duck" width="100%" src="https://media.licdn.com/dms/image/D4D16AQE_U420FuzHLA/profile-displaybackgroundimage-shrink_350_1400/0/1674588559605?e=1697068800&v=beta&t=_ywBiRe0DaFtlmpEXDRD54qfTH6J1avgqzB6irNsKcc"/>
