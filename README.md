@@ -54,7 +54,6 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img align="justify" width="60px" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img align="justify" width="45px" height="45px" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" /></a>  
 <a href="https://mui.com/" target="_blank"><img align="justify" width="45px" height="45px" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img align="justify" width="45px" height="45px" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img align="justify" width="45px" height="45px" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img align="justify" width="45px" height="45px" class="image-with-space"style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
@@ -64,9 +63,7 @@
 ### - Machine Learning  
 <div align="center">  
 <a href="https://opencv.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" align="justify" width="45" height="45" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" align="justify" width="45" height="45" /></a>  
 <a href="https://www.python.org/" target="_blank"> <img align="justify" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="45" height="45" /></a>  
-<a href="https://keras.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" align="justify" width="45" height="45" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow"  align="justify" width="45" height="45" /></a>  
 </div>
 <hr/>
@@ -77,10 +74,8 @@
 <a href="https://kubernetes.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes"  align="justify" width="45" height="45"</a>  
 <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" align="justify" width="45" height="45" /></a>  
 <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" align="justify" width="45" height="45" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="Bash" align="justify" width="45" height="45" /></a>  
 <a href="https://www.terraform.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" align="justify" width="45" height="45" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" align="justify" width="45" height="45" /></a> 
-<a href="https://www.nginx.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" align="justify" width="45" height="45"/></a>  
 <a href="https://www.puppet.com/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Puppet_boxes_logo.svg/150px-Puppet_boxes_logo.svg.png" alt="Puppet" align="justify" width="30" height="45" /></a>  
 <a href="https://www.ansible.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" align="justify" width="45" height="45"/></a>  
 <a href="https://www.jenkins.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" align="justify" width="45" height="45"/></a>  
