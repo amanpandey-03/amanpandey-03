@@ -24,22 +24,25 @@
 <br/>
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
+  <h2>👾 About Me</h2>
+  <table border="0" cellpadding="8" cellspacing="0">
     <tr>
-      <td width="55%" valign="top">
-        <h2>👾 About Me</h2>
-        <ul>
-          <li>⚙️ &nbsp;DevOps Engineer crafting cloud-native infrastructure at scale</li>
-          <li>☁️ &nbsp;Multi-cloud practitioner — AWS · GCP · Azure · OCI</li>
-          <li>🔭 &nbsp;Passionate about observability, GitOps & platform engineering</li>
-          <li>🛠️ &nbsp;Automating everything from provisioning to deployments</li>
-          <li>🌐 &nbsp;Deep interest in networking, DNS, and edge security</li>
-          <li>📍 &nbsp;Based in Bangalore, India</li>
-        </ul>
-      </td>
-      <td width="45%" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="280"/>
-      </td>
+      <td align="left">⚙️ &nbsp;DevOps Engineer crafting cloud-native infrastructure at scale</td>
+    </tr>
+    <tr>
+      <td align="left">☁️ &nbsp;Multi-cloud practitioner — AWS · GCP · Azure · OCI</td>
+    </tr>
+    <tr>
+      <td align="left">🔭 &nbsp;Passionate about observability, GitOps & platform engineering</td>
+    </tr>
+    <tr>
+      <td align="left">🛠️ &nbsp;Automating everything from provisioning to deployments</td>
+    </tr>
+    <tr>
+      <td align="left">🌐 &nbsp;Deep interest in networking, DNS, and edge security</td>
+    </tr>
+    <tr>
+      <td align="left">📍 &nbsp;Based in Bangalore, India</td>
     </tr>
   </table>
 </div>
