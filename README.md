@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,50:0d2137,100:1F6FEB&height=160&section=header&text=Aman%20Pandey&fontSize=60&fontColor=ffffff&animation=blinking&fontAlignY=55&stroke=58A6FF&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0000,100:8B0000&height=220&section=header&text=AMAN%20PANDEY&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&fontFamily=Orbitron&desc=DevOps%20Engineer%20%7C%20Bangalore%2C%20India&descAlignY=64&descSize=20&descColor=FF4444&descAlign=50" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=800&lines=DevOps+Engineer+%7C+Cloud-Native+Infrastructure;Linux+%E2%86%92+Kubernetes+%E2%86%92+Terraform+%E2%86%92+AWS;CI%2FCD+%7C+IaC+%7C+Monitoring+%7C+Platform+Engineering;Networking+%7C+Security+%7C+System+Design;Building+Reliable%2C+Scalable%2C+Observable+Systems+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=700&color=FF4444&center=true&vCenter=true&random=false&width=820&lines=DevOps+Engineer+%7C+Cloud-Native+Infrastructure;Linux+%E2%86%92+Kubernetes+%E2%86%92+Terraform+%E2%86%92+AWS;CI%2FCD+%7C+IaC+%7C+Monitoring+%7C+Platform+Engineering;Networking+%7C+Security+%7C+System+Design;Building+Reliable%2C+Scalable%2C+Observable+Systems" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -20,45 +20,79 @@
   <a href="https://twitter.com/amanOnTwt">
     <img src="https://img.shields.io/badge/Twitter-@amanOnTwt-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=amanpandey-03&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=amanpandey-03&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS"/>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=2&section=header" width="100%"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
+<br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d2137,100:0D1117&height=60&section=header&text=⚡%20Core%20Competencies&fontSize=26&fontColor=58A6FF&animation=twinkling" width="100%"/>
-</div>
+## ⚡ Core Competencies
 
 <br/>
 
 <div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/DevOps_Engineering-0D1117?style=for-the-badge&logo=devdotto&logoColor=58A6FF&labelColor=161B22&color=0D1117" height="32"/> | <img src="https://img.shields.io/badge/Infrastructure_Automation-0D1117?style=for-the-badge&logo=ansible&logoColor=58A6FF&labelColor=161B22&color=0D1117" height="32"/> | <img src="https://img.shields.io/badge/Linux_Administration-0D1117?style=for-the-badge&logo=linux&logoColor=58A6FF&labelColor=161B22&color=0D1117" height="32"/> |
-| <sub>Deployments · Orchestration · Release workflows</sub> | <sub>Provisioning · Config mgmt · Drift detection</sub> | <sub>Server mgmt · Tuning · Process control</sub> |
-| <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-0D1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF&labelColor=161B22&color=0D1117" height="32"/> | <img src="https://img.shields.io/badge/Networking_%26_Security-0D1117?style=for-the-badge&logo=cloudflare&logoColor=58A6FF&labelColor=161B22&color=0D1117" height="32"/> | <img src="https://img.shields.io/badge/Cloud_Native_Systems-0D1117?style=for-the-badge&logo=kubernetes&logoColor=58A6FF&labelColor=161B22&color=0D1117" height="32"/> |
-| <sub>Build · Test · Deploy · GitOps</sub> | <sub>Routing · TLS · Firewall · VPN · DNS</sub> | <sub>Containers · Microservices · Service mesh</sub> |
-| <img src="https://img.shields.io/badge/Monitoring_%26_Observability-0D1117?style=for-the-badge&logo=grafana&logoColor=58A6FF&labelColor=161B22&color=0D1117" height="32"/> | <img src="https://img.shields.io/badge/Infrastructure_as_Code-0D1117?style=for-the-badge&logo=terraform&logoColor=58A6FF&labelColor=161B22&color=0D1117" height="32"/> | <img src="https://img.shields.io/badge/System_Design-0D1117?style=for-the-badge&logo=diagrams.net&logoColor=58A6FF&labelColor=161B22&color=0D1117" height="32"/> |
-| <sub>Metrics · Logs · Traces · Alerts</sub> | <sub>Declarative · State mgmt · Modules</sub> | <sub>Architecture · Integration flows · Endpoints</sub> |
-| | <img src="https://img.shields.io/badge/Platform_Engineering-0D1117?style=for-the-badge&logo=helm&logoColor=58A6FF&labelColor=161B22&color=0D1117" height="32"/> | |
-| | <sub>IDP · Self-service infra · Golden paths · GitOps</sub> | |
-
+<table>
+  <tr>
+    <td align="center" width="220">
+      <b>🔧 DevOps Engineering</b><br/>
+      <sub>Deployments · Orchestration · Release workflows</sub>
+    </td>
+    <td align="center" width="220">
+      <b>⚙️ Infrastructure Automation</b><br/>
+      <sub>Provisioning · Config mgmt · Drift detection</sub>
+    </td>
+    <td align="center" width="220">
+      <b>🐧 Linux Administration</b><br/>
+      <sub>Server mgmt · Tuning · Process control</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🔄 CI/CD Pipelines</b><br/>
+      <sub>Build · Test · Deploy · GitOps</sub>
+    </td>
+    <td align="center">
+      <b>🌐 Networking & Security</b><br/>
+      <sub>Routing · TLS · Firewall · VPN · DNS</sub>
+    </td>
+    <td align="center">
+      <b>☁️ Cloud Native Systems</b><br/>
+      <sub>Containers · Microservices · Service mesh</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>📊 Monitoring & Observability</b><br/>
+      <sub>Metrics · Logs · Traces · Alerts</sub>
+    </td>
+    <td align="center">
+      <b>📜 Infrastructure as Code</b><br/>
+      <sub>Declarative · State mgmt · Modules</sub>
+    </td>
+    <td align="center">
+      <b>🏗️ System Design</b><br/>
+      <sub>Architecture · Integration flows · Endpoints</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <b>🚀 Platform Engineering</b><br/>
+      <sub>IDP · Self-service infra · Golden paths · GitOps</sub>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d2137,100:0D1117&height=60&section=header&text=🛠️%20Tools%20%26%20Technologies&fontSize=26&fontColor=58A6FF&animation=twinkling" width="100%"/>
-</div>
+<br/>
+
+## 🛠️ Tools & Technologies
 
 <br/>
 
@@ -66,87 +100,87 @@
 
 **🐳 Containers & Orchestration**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=FF4444&labelColor=111111)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D0D0D?style=for-the-badge&logo=kubernetes&logoColor=FF4444&labelColor=111111)
+![Helm](https://img.shields.io/badge/Helm-0D0D0D?style=for-the-badge&logo=helm&logoColor=FF4444&labelColor=111111)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-0D0D0D?style=for-the-badge&logo=argo&logoColor=FF4444&labelColor=111111)
 
 **🔄 CI/CD & Automation**
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-0D0D0D?style=for-the-badge&logo=jenkins&logoColor=FF4444&labelColor=111111)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D0D0D?style=for-the-badge&logo=githubactions&logoColor=FF4444&labelColor=111111)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-0D0D0D?style=for-the-badge&logo=gitlab&logoColor=FF4444&labelColor=111111)
+![Ansible](https://img.shields.io/badge/Ansible-0D0D0D?style=for-the-badge&logo=ansible&logoColor=FF4444&labelColor=111111)
 
 **📜 Infrastructure as Code**
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-0D0D0D?style=for-the-badge&logo=terraform&logoColor=FF4444&labelColor=111111)
+![Ansible](https://img.shields.io/badge/Ansible-0D0D0D?style=for-the-badge&logo=ansible&logoColor=FF4444&labelColor=111111)
+![Puppet](https://img.shields.io/badge/Puppet-0D0D0D?style=for-the-badge&logo=puppet&logoColor=FF4444&labelColor=111111)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-0D0D0D?style=for-the-badge&logo=amazonaws&logoColor=FF4444&labelColor=111111)
 
 **☁️ Cloud & Networking**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![HAProxy](https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge&logo=haproxy&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0D0D0D?style=for-the-badge&logo=amazonaws&logoColor=FF4444&labelColor=111111)
+![NGINX](https://img.shields.io/badge/NGINX-0D0D0D?style=for-the-badge&logo=nginx&logoColor=FF4444&labelColor=111111)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0D0D0D?style=for-the-badge&logo=cloudflare&logoColor=FF4444&labelColor=111111)
+![HAProxy](https://img.shields.io/badge/HAProxy-0D0D0D?style=for-the-badge&logo=nginx&logoColor=FF4444&labelColor=111111)
 
 **📊 Monitoring & Observability**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-0D0D0D?style=for-the-badge&logo=prometheus&logoColor=FF4444&labelColor=111111)
+![Grafana](https://img.shields.io/badge/Grafana-0D0D0D?style=for-the-badge&logo=grafana&logoColor=FF4444&labelColor=111111)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0D0D0D?style=for-the-badge&logo=elasticsearch&logoColor=FF4444&labelColor=111111)
+![Loki](https://img.shields.io/badge/Loki-0D0D0D?style=for-the-badge&logo=grafana&logoColor=FF4444&labelColor=111111)
+![Datadog](https://img.shields.io/badge/Datadog-0D0D0D?style=for-the-badge&logo=datadog&logoColor=FF4444&labelColor=111111)
 
 **🐧 Linux & Scripting**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0D0D0D?style=for-the-badge&logo=linux&logoColor=FF4444&labelColor=111111)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0D0D0D?style=for-the-badge&logo=ubuntu&logoColor=FF4444&labelColor=111111)
+![Bash](https://img.shields.io/badge/Bash-0D0D0D?style=for-the-badge&logo=gnubash&logoColor=FF4444&labelColor=111111)
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=FF4444&labelColor=111111)
+![YAML](https://img.shields.io/badge/YAML-0D0D0D?style=for-the-badge&logo=yaml&logoColor=FF4444&labelColor=111111)
 
 **🔧 Dev & Collaboration**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=FF4444&labelColor=111111)
+![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FF4444&labelColor=111111)
+![GitLab](https://img.shields.io/badge/GitLab-0D0D0D?style=for-the-badge&logo=gitlab&logoColor=FF4444&labelColor=111111)
+![VS Code](https://img.shields.io/badge/VS_Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=FF4444&labelColor=111111)
+![Postman](https://img.shields.io/badge/Postman-0D0D0D?style=for-the-badge&logo=postman&logoColor=FF4444&labelColor=111111)
 
 </div>
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d2137,100:0D1117&height=60&section=header&text=📊%20GitHub%20Stats&fontSize=26&fontColor=58A6FF&animation=twinkling" width="100%"/>
-</div>
+<br/>
+
+## 📊 GitHub Stats
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanpandey-03&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E&border_color=1F6FEB" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amanpandey-03&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D0D0D&title_color=FF4444&icon_color=CC0000&text_color=CCCCCC&ring_color=8B0000" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-03&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-03&layout=compact&hide_border=true&langs_count=8&bg_color=0D0D0D&title_color=FF4444&text_color=CCCCCC" height="170"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=amanpandey-03&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF" width="68%"/>
+  <img src="https://streak-stats.demolab.com?user=amanpandey-03&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700&background=0D0D0D&ring=CC0000&fire=FF4444&currStreakLabel=FF4444&sideLabels=CCCCCC&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" width="68%"/>
 </div>
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d2137,100:0D1117&height=60&section=header&text=🏆%20Trophies&fontSize=26&fontColor=58A6FF&animation=twinkling" width="100%"/>
-</div>
+<br/>
+
+## 🏆 GitHub Trophies
 
 <br/>
 
@@ -156,25 +190,25 @@
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d2137,100:0D1117&height=60&section=header&text=📈%20Activity&fontSize=26&fontColor=58A6FF&animation=twinkling" width="100%"/>
-</div>
+<br/>
+
+## 📈 Contribution Activity
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanpandey-03&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanpandey-03&bg_color=0D0D0D&color=FF4444&line=8B0000&point=FF4444&area=true&area_color=1a0000&hide_border=true" width="100%"/>
 </div>
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d2137,100:0D1117&height=60&section=header&text=🐍%20Contributions&fontSize=26&fontColor=58A6FF&animation=twinkling" width="100%"/>
-</div>
+<br/>
+
+## 🐍 Contribution Snake
 
 <br/>
 
@@ -189,5 +223,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:0d2137,100:0D1117&height=140&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:1a0000,100:000000&height=140&section=footer&fontFamily=Orbitron" width="100%"/>
 </div>
