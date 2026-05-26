@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0000,100:8B0000&height=220&section=header&text=AMAN%20PANDEY&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&fontFamily=Orbitron&desc=DevOps%20Engineer%20%7C%20Bangalore%2C%20India&descAlignY=64&descSize=20&descColor=FF4444&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:1a0020,60:3d0030,80:6b0030,100:8B0000&height=240&section=header&text=AMAN%20PANDEY&fontSize=78&fontColor=FFFFFF&animation=fadeIn&fontAlignY=44&fontFamily=Orbitron&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Platform%20Engineering%20%7C%20Bangalore%2C%20India&descAlignY=66&descSize=18&descColor=FF6B8A&descAlign=50" width="100%"/>
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=700&color=FF4444&center=true&vCenter=true&random=false&width=820&lines=DevOps+Engineer+%7C+Cloud-Native+Infrastructure;Linux+%E2%86%92+Kubernetes+%E2%86%92+Terraform+%E2%86%92+AWS;CI%2FCD+%7C+IaC+%7C+Monitoring+%7C+Platform+Engineering;Networking+%7C+Security+%7C+System+Design;Building+Reliable%2C+Scalable%2C+Observable+Systems" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=FF6B8A&center=true&vCenter=true&random=false&width=860&lines=Cloud+Native+Infrastructure+%E2%80%94+AWS+%7C+GCP+%7C+Azure+%7C+OCI;Kubernetes+%E2%80%A2+Docker+%E2%80%A2+Helm+%E2%80%A2+ArgoCD+%E2%80%A2+GitOps;CI%2FCD+Pipelines+%E2%80%94+Jenkins+%7C+GitHub+Actions+%7C+GitLab+CI;Observability+%E2%80%94+Prometheus+%E2%80%A2+Grafana+%E2%80%A2+Loki+%E2%80%A2+Tempo;Networking+%E2%80%94+Cloudflare+%7C+NGINX+%7C+HAProxy+%7C+VPN+%7C+DNS;Infrastructure+as+Code+%E2%80%94+Terraform+%7C+Ansible+%7C+Puppet;Building+Reliable%2C+Scalable%2C+Observable+Systems" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -25,7 +23,9 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8B0000,100:3d0030&height=3&section=header" width="100%"/>
+</div>
 
 <br/>
 
@@ -59,8 +59,8 @@
       <sub>Routing · TLS · Firewall · VPN · DNS</sub>
     </td>
     <td align="center">
-      <b>☁️ Cloud Native Systems</b><br/>
-      <sub>Containers · Microservices · Service mesh</sub>
+      <b>☁️ Multi-Cloud Systems</b><br/>
+      <sub>AWS · GCP · Azure · OCI · Hybrid</sub>
     </td>
   </tr>
   <tr>
@@ -88,7 +88,9 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3d0030,100:8B0000&height=3&section=header" width="100%"/>
+</div>
 
 <br/>
 
@@ -98,65 +100,73 @@
 
 <div align="center">
 
+**☁️ Cloud Platforms**
+
+![AWS](https://img.shields.io/badge/AWS-0D0D0D?style=for-the-badge&logo=amazonaws&logoColor=FF6B8A&labelColor=1a0020)
+![GCP](https://img.shields.io/badge/GCP-0D0D0D?style=for-the-badge&logo=googlecloud&logoColor=FF6B8A&labelColor=1a0020)
+![Azure](https://img.shields.io/badge/Azure-0D0D0D?style=for-the-badge&logo=microsoftazure&logoColor=FF6B8A&labelColor=1a0020)
+![Oracle Cloud](https://img.shields.io/badge/OCI-0D0D0D?style=for-the-badge&logo=oracle&logoColor=FF6B8A&labelColor=1a0020)
+
 **🐳 Containers & Orchestration**
 
-![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=FF4444&labelColor=111111)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0D0D0D?style=for-the-badge&logo=kubernetes&logoColor=FF4444&labelColor=111111)
-![Helm](https://img.shields.io/badge/Helm-0D0D0D?style=for-the-badge&logo=helm&logoColor=FF4444&labelColor=111111)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-0D0D0D?style=for-the-badge&logo=argo&logoColor=FF4444&labelColor=111111)
+![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=FF6B8A&labelColor=1a0020)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D0D0D?style=for-the-badge&logo=kubernetes&logoColor=FF6B8A&labelColor=1a0020)
+![Helm](https://img.shields.io/badge/Helm-0D0D0D?style=for-the-badge&logo=helm&logoColor=FF6B8A&labelColor=1a0020)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-0D0D0D?style=for-the-badge&logo=argo&logoColor=FF6B8A&labelColor=1a0020)
 
 **🔄 CI/CD & Automation**
 
-![Jenkins](https://img.shields.io/badge/Jenkins-0D0D0D?style=for-the-badge&logo=jenkins&logoColor=FF4444&labelColor=111111)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D0D0D?style=for-the-badge&logo=githubactions&logoColor=FF4444&labelColor=111111)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-0D0D0D?style=for-the-badge&logo=gitlab&logoColor=FF4444&labelColor=111111)
-![Ansible](https://img.shields.io/badge/Ansible-0D0D0D?style=for-the-badge&logo=ansible&logoColor=FF4444&labelColor=111111)
+![Jenkins](https://img.shields.io/badge/Jenkins-0D0D0D?style=for-the-badge&logo=jenkins&logoColor=FF6B8A&labelColor=1a0020)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D0D0D?style=for-the-badge&logo=githubactions&logoColor=FF6B8A&labelColor=1a0020)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-0D0D0D?style=for-the-badge&logo=gitlab&logoColor=FF6B8A&labelColor=1a0020)
+![Ansible](https://img.shields.io/badge/Ansible-0D0D0D?style=for-the-badge&logo=ansible&logoColor=FF6B8A&labelColor=1a0020)
 
 **📜 Infrastructure as Code**
 
-![Terraform](https://img.shields.io/badge/Terraform-0D0D0D?style=for-the-badge&logo=terraform&logoColor=FF4444&labelColor=111111)
-![Ansible](https://img.shields.io/badge/Ansible-0D0D0D?style=for-the-badge&logo=ansible&logoColor=FF4444&labelColor=111111)
-![Puppet](https://img.shields.io/badge/Puppet-0D0D0D?style=for-the-badge&logo=puppet&logoColor=FF4444&labelColor=111111)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-0D0D0D?style=for-the-badge&logo=amazonaws&logoColor=FF4444&labelColor=111111)
-
-**☁️ Cloud & Networking**
-
-![AWS](https://img.shields.io/badge/AWS-0D0D0D?style=for-the-badge&logo=amazonaws&logoColor=FF4444&labelColor=111111)
-![GCP](https://img.shields.io/badge/GCP-0D0D0D?style=for-the-badge&logo=googlecloud&logoColor=FF4444&labelColor=111111)
-![OKE](https://img.shields.io/badge/OKE-0D0D0D?style=for-the-badge&logo=oracle&logoColor=FF4444&labelColor=111111)
-![NGINX](https://img.shields.io/badge/NGINX-0D0D0D?style=for-the-badge&logo=nginx&logoColor=FF4444&labelColor=111111)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0D0D0D?style=for-the-badge&logo=cloudflare&logoColor=FF4444&labelColor=111111)
-![HAProxy](https://img.shields.io/badge/HAProxy-0D0D0D?style=for-the-badge&logo=nginx&logoColor=FF4444&labelColor=111111)
+![Terraform](https://img.shields.io/badge/Terraform-0D0D0D?style=for-the-badge&logo=terraform&logoColor=FF6B8A&labelColor=1a0020)
+![Ansible](https://img.shields.io/badge/Ansible-0D0D0D?style=for-the-badge&logo=ansible&logoColor=FF6B8A&labelColor=1a0020)
+![Puppet](https://img.shields.io/badge/Puppet-0D0D0D?style=for-the-badge&logo=puppet&logoColor=FF6B8A&labelColor=1a0020)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-0D0D0D?style=for-the-badge&logo=amazonaws&logoColor=FF6B8A&labelColor=1a0020)
 
 **📊 Monitoring & Observability**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-0D0D0D?style=for-the-badge&logo=prometheus&logoColor=FF4444&labelColor=111111)
-![Grafana](https://img.shields.io/badge/Grafana-0D0D0D?style=for-the-badge&logo=grafana&logoColor=FF4444&labelColor=111111)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0D0D0D?style=for-the-badge&logo=elasticsearch&logoColor=FF4444&labelColor=111111)
-![Loki](https://img.shields.io/badge/Loki-0D0D0D?style=for-the-badge&logo=grafana&logoColor=FF4444&labelColor=111111)
-![Datadog](https://img.shields.io/badge/Datadog-0D0D0D?style=for-the-badge&logo=datadog&logoColor=FF4444&labelColor=111111)
+![Prometheus](https://img.shields.io/badge/Prometheus-0D0D0D?style=for-the-badge&logo=prometheus&logoColor=FF6B8A&labelColor=1a0020)
+![Grafana](https://img.shields.io/badge/Grafana-0D0D0D?style=for-the-badge&logo=grafana&logoColor=FF6B8A&labelColor=1a0020)
+![Loki](https://img.shields.io/badge/Loki-0D0D0D?style=for-the-badge&logo=grafana&logoColor=FF6B8A&labelColor=1a0020)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0D0D0D?style=for-the-badge&logo=elasticsearch&logoColor=FF6B8A&labelColor=1a0020)
+![Datadog](https://img.shields.io/badge/Datadog-0D0D0D?style=for-the-badge&logo=datadog&logoColor=FF6B8A&labelColor=1a0020)
+
+**🌐 Networking & Security**
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0D0D0D?style=for-the-badge&logo=cloudflare&logoColor=FF6B8A&labelColor=1a0020)
+![NGINX](https://img.shields.io/badge/NGINX-0D0D0D?style=for-the-badge&logo=nginx&logoColor=FF6B8A&labelColor=1a0020)
+![HAProxy](https://img.shields.io/badge/HAProxy-0D0D0D?style=for-the-badge&logo=nginx&logoColor=FF6B8A&labelColor=1a0020)
+![Istio](https://img.shields.io/badge/Istio-0D0D0D?style=for-the-badge&logo=istio&logoColor=FF6B8A&labelColor=1a0020)
+![Cilium](https://img.shields.io/badge/Cilium-0D0D0D?style=for-the-badge&logo=cilium&logoColor=FF6B8A&labelColor=1a0020)
 
 **🐧 Linux & Scripting**
 
-![Linux](https://img.shields.io/badge/Linux-0D0D0D?style=for-the-badge&logo=linux&logoColor=FF4444&labelColor=111111)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-0D0D0D?style=for-the-badge&logo=ubuntu&logoColor=FF4444&labelColor=111111)
-![Bash](https://img.shields.io/badge/Bash-0D0D0D?style=for-the-badge&logo=gnubash&logoColor=FF4444&labelColor=111111)
-![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=FF4444&labelColor=111111)
-![YAML](https://img.shields.io/badge/YAML-0D0D0D?style=for-the-badge&logo=yaml&logoColor=FF4444&labelColor=111111)
+![Linux](https://img.shields.io/badge/Linux-0D0D0D?style=for-the-badge&logo=linux&logoColor=FF6B8A&labelColor=1a0020)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0D0D0D?style=for-the-badge&logo=ubuntu&logoColor=FF6B8A&labelColor=1a0020)
+![Bash](https://img.shields.io/badge/Bash-0D0D0D?style=for-the-badge&logo=gnubash&logoColor=FF6B8A&labelColor=1a0020)
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=FF6B8A&labelColor=1a0020)
+![YAML](https://img.shields.io/badge/YAML-0D0D0D?style=for-the-badge&logo=yaml&logoColor=FF6B8A&labelColor=1a0020)
 
 **🔧 Dev & Collaboration**
 
-![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=FF4444&labelColor=111111)
-![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FF4444&labelColor=111111)
-![GitLab](https://img.shields.io/badge/GitLab-0D0D0D?style=for-the-badge&logo=gitlab&logoColor=FF4444&labelColor=111111)
-![VS Code](https://img.shields.io/badge/VS_Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=FF4444&labelColor=111111)
-![Postman](https://img.shields.io/badge/Postman-0D0D0D?style=for-the-badge&logo=postman&logoColor=FF4444&labelColor=111111)
+![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=FF6B8A&labelColor=1a0020)
+![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FF6B8A&labelColor=1a0020)
+![GitLab](https://img.shields.io/badge/GitLab-0D0D0D?style=for-the-badge&logo=gitlab&logoColor=FF6B8A&labelColor=1a0020)
+![VS Code](https://img.shields.io/badge/VS_Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=FF6B8A&labelColor=1a0020)
+![Postman](https://img.shields.io/badge/Postman-0D0D0D?style=for-the-badge&logo=postman&logoColor=FF6B8A&labelColor=1a0020)
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8B0000,100:3d0030&height=3&section=header" width="100%"/>
+</div>
 
 <br/>
 
@@ -165,20 +175,22 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanpandey-03&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D0D0D&title_color=FF4444&icon_color=CC0000&text_color=CCCCCC&ring_color=8B0000" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amanpandey-03&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D0D0D&title_color=FF6B8A&icon_color=CC0050&text_color=CCCCCC&ring_color=6b0030" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-03&layout=compact&hide_border=true&langs_count=8&bg_color=0D0D0D&title_color=FF4444&text_color=CCCCCC" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-03&layout=compact&hide_border=true&langs_count=8&bg_color=0D0D0D&title_color=FF6B8A&text_color=CCCCCC" height="170"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=amanpandey-03&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700&background=0D0D0D&ring=CC0000&fire=FF4444&currStreakLabel=FF4444&sideLabels=CCCCCC&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" width="68%"/>
+  <img src="https://streak-stats.demolab.com?user=amanpandey-03&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700&background=0D0D0D&ring=CC0050&fire=FF6B8A&currStreakLabel=FF6B8A&sideLabels=CCCCCC&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" width="68%"/>
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3d0030,100:8B0000&height=3&section=header" width="100%"/>
+</div>
 
 <br/>
 
@@ -192,7 +204,9 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8B0000,100:3d0030&height=3&section=header" width="100%"/>
+</div>
 
 <br/>
 
@@ -201,12 +215,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanpandey-03&bg_color=0D0D0D&color=FF4444&line=8B0000&point=FF4444&area=true&area_color=1a0000&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanpandey-03&bg_color=0D0D0D&color=FF6B8A&line=6b0030&point=FF6B8A&area=true&area_color=1a0020&hide_border=true" width="100%"/>
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3d0030,100:8B0000&height=3&section=header" width="100%"/>
+</div>
 
 <br/>
 
@@ -225,5 +241,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:1a0000,100:000000&height=140&section=footer&fontFamily=Orbitron" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,30:6b0030,60:3d0030,80:1a0020,100:0d0d0d&height=160&section=footer&fontFamily=Orbitron" width="100%"/>
 </div>
