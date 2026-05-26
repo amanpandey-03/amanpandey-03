@@ -122,6 +122,8 @@
 **☁️ Cloud & Networking**
 
 ![AWS](https://img.shields.io/badge/AWS-0D0D0D?style=for-the-badge&logo=amazonaws&logoColor=FF4444&labelColor=111111)
+![GCP](https://img.shields.io/badge/GCP-0D0D0D?style=for-the-badge&logo=googlecloud&logoColor=FF4444&labelColor=111111)
+![OKE](https://img.shields.io/badge/OKE-0D0D0D?style=for-the-badge&logo=oracle&logoColor=FF4444&labelColor=111111)
 ![NGINX](https://img.shields.io/badge/NGINX-0D0D0D?style=for-the-badge&logo=nginx&logoColor=FF4444&labelColor=111111)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0D0D0D?style=for-the-badge&logo=cloudflare&logoColor=FF4444&labelColor=111111)
 ![HAProxy](https://img.shields.io/badge/HAProxy-0D0D0D?style=for-the-badge&logo=nginx&logoColor=FF4444&labelColor=111111)
