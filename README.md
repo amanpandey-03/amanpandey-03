@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:1a0020,60:3d0030,80:6b0030,100:8B0000&height=240&section=header&text=AMAN%20PANDEY&fontSize=78&fontColor=FFFFFF&animation=fadeIn&fontAlignY=44&fontFamily=Orbitron&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Platform%20Engineering%20%7C%20Bangalore%2C%20India&descAlignY=66&descSize=18&descColor=FF6B8A&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0020,100:8B0000&height=240&section=header&text=AMAN%20PANDEY&fontSize=78&fontColor=FFFFFF&animation=twinkling&fontAlignY=44&fontFamily=Orbitron&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Platform%20Engineering%20%7C%20Bangalore%2C%20India&descAlignY=66&descSize=18&descColor=FF6B8A&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
@@ -24,7 +24,30 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8B0000,100:3d0030&height=3&section=header" width="100%"/>
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="55%" valign="top">
+        <h2>👾 About Me</h2>
+        <ul>
+          <li>⚙️ &nbsp;DevOps Engineer crafting cloud-native infrastructure at scale</li>
+          <li>☁️ &nbsp;Multi-cloud practitioner — AWS · GCP · Azure · OCI</li>
+          <li>🔭 &nbsp;Passionate about observability, GitOps & platform engineering</li>
+          <li>🛠️ &nbsp;Automating everything from provisioning to deployments</li>
+          <li>🌐 &nbsp;Deep interest in networking, DNS, and edge security</li>
+          <li>📍 &nbsp;Based in Bangalore, India</li>
+        </ul>
+      </td>
+      <td width="45%" align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="280"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0020,100:8B0000&height=3" width="100%"/>
 </div>
 
 <br/>
@@ -89,7 +112,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3d0030,100:8B0000&height=3&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8B0000,100:1a0020&height=3" width="100%"/>
 </div>
 
 <br/>
@@ -165,7 +188,41 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8B0000,100:3d0030&height=3&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0020,100:8B0000&height=3" width="100%"/>
+</div>
+
+<br/>
+
+## 🖥️ Always On Duty
+
+<br/>
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="16">
+    <tr>
+      <td align="center" valign="middle" width="33%">
+        <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="200" alt="Coder at work"/>
+        <br/>
+        <sub><b>Scripting & Automating</b></sub>
+      </td>
+      <td align="center" valign="middle" width="33%">
+        <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif" width="200" alt="At the terminal"/>
+        <br/>
+        <sub><b>Shipping Pipelines</b></sub>
+      </td>
+      <td align="center" valign="middle" width="33%">
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="200" alt="Coding away"/>
+        <br/>
+        <sub><b>Tinkering with Infra</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8B0000,100:1a0020&height=3" width="100%"/>
 </div>
 
 <br/>
@@ -189,7 +246,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3d0030,100:8B0000&height=3&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0020,100:8B0000&height=3" width="100%"/>
 </div>
 
 <br/>
@@ -205,7 +262,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8B0000,100:3d0030&height=3&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8B0000,100:1a0020&height=3" width="100%"/>
 </div>
 
 <br/>
@@ -221,25 +278,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3d0030,100:8B0000&height=3&section=header" width="100%"/>
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amanpandey-03/amanpandey-03/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amanpandey-03/amanpandey-03/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/amanpandey-03/amanpandey-03/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,30:6b0030,60:3d0030,80:1a0020,100:0d0d0d&height=160&section=footer&fontFamily=Orbitron" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:1a0020&height=160&section=footer&fontFamily=Orbitron" width="100%"/>
 </div>
