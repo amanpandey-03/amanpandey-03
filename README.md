@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0020,100:8B0000&height=240&section=header&text=AMAN%20PANDEY&fontSize=78&fontColor=FFFFFF&animation=twinkling&fontAlignY=44&fontFamily=Orbitron&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Platform%20Engineering%20%7C%20Bangalore%2C%20India&descAlignY=66&descSize=18&descColor=FF6B8A&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0020,100:8B0000&height=200&section=header&text=AMAN%20PANDEY&fontSize=72&fontColor=FFFFFF&animation=twinkling&fontAlignY=42" width="100%"/>
 </div>
 
 <div align="center">
@@ -278,5 +278,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:1a0020&height=160&section=footer&fontFamily=Orbitron" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:1a0020&height=160&section=footer" width="100%"/>
 </div>
